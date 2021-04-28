@@ -15,3 +15,6 @@ In this part,
 ## Meeting Logging  
 2021.4.11  
 Discussed the basic timetable and the hardware platform we need(**Raspberry Pi**). In addition, we decided to use **OpenCV** to recongnize the mask.
+
+2021.4.28
+Installed TensorFlow and MiniConda. Tried simple models implemented in TensorFlow. Machine Learning is still in progress.
