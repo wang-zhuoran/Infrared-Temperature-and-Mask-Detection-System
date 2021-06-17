@@ -18,3 +18,9 @@ Discussed the basic timetable and the hardware platform we need(**Raspberry Pi**
 
 2021.4.28  
 Installed TensorFlow and MiniConda. Tried simple models implemented in TensorFlow. Machine Learning is still in progress.
+
+2021.5.13 - 2021.5.27  
+Choose the model and technique. I decided to use MobileNet and Transfer Learning to construct my model.   
+Then use the dataset(https://github.com/manish-1305/facemask_detection) to train my model.  
+Save it as **.h5** file, make sure that I can use it later on.
+
