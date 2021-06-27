@@ -32,6 +32,7 @@ Then use the dataset(https://github.com/manish-1305/facemask_detection) to train
 Save it as **.h5** file, make sure that I can use it later on.
 
 ## Training Model
+![image](https://github.com/wang-zhuoran/Infrared-Temperature-and-Mask-Detection-System/blob/main/images/image.png)
 
 ## Test Model
 
