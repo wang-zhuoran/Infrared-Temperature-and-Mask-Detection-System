@@ -35,6 +35,7 @@ Save it as **.h5** file, make sure that I can use it later on.
 ![image](https://github.com/wang-zhuoran/Infrared-Temperature-and-Mask-Detection-System/blob/main/images/image.png)
 
 ## Test Model
+![image](https://github.com/wang-zhuoran/Infrared-Temperature-and-Mask-Detection-System/blob/main/images/test_model.jpg)
 
 
 
