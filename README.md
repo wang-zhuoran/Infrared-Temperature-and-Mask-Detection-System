@@ -34,7 +34,24 @@ Save it as **.h5** file, make sure that I can use it later on.
 ## Training Model
 ![image](https://github.com/wang-zhuoran/Infrared-Temperature-and-Mask-Detection-System/blob/main/images/image.png)
 
+Noted that the directories of dataset should organized as follows:
+-Project directory
+  |-- Dataset
+  |---|-- No_Mask
+  |---|-- With_Mask
+  |-- train_model.py
+
 ## Test Model
+Noted that the directory and file should organized as follows:
+-Project directory
+  |-- Dataset
+  |---|-- No_Mask
+  |---|-- With_Mask
+  |-- train_model.py
+  |-- test_model.py
+  |-- haarcascade_frontalface_default.xml
+  
+ Actual running:
 ![image](https://github.com/wang-zhuoran/Infrared-Temperature-and-Mask-Detection-System/blob/main/images/test_model.jpg)
 
 
