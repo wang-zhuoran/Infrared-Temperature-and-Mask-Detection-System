@@ -54,5 +54,10 @@ Noted that the directory and file should organized as follows:
  #### Actual running:  
 ![image](https://github.com/wang-zhuoran/Infrared-Temperature-and-Mask-Detection-System/blob/main/images/test_model.jpg)
 
+## Reference and Furthur Reading  
+[1]Howard A G, Zhu M, Chen B, et al. Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv preprint arXiv:1704.04861, 2017.  
+[2]Pan S J, Yang Q. A survey on transfer learning[J]. IEEE Transactions on knowledge and data engineering, 2009, 22(10): 1345-1359.  
+[3]https://hackcv.com/posts/%E7%BF%BB%E8%AF%91-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%9B%B4%E8%A7%82%E8%A7%A3%E9%87%8A/
+
 
 
